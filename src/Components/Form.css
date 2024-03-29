@@ -1,0 +1,23 @@
+/* #container {
+    display: flex;
+    flex-direction: column;
+    width: 280px;
+  } */
+  
+  input {
+    margin-bottom: 12px;
+  }
+  
+  button {
+    margin-top: 12px;
+  }
+  
+  #imgg{
+    width:200px;
+    border: none;
+  }
+
+  form{
+    border: 0px solid red;
+
+  }
